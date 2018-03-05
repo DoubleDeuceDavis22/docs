@@ -115,7 +115,7 @@ You can use Polymer's DOM templating to create a shadow DOM tree for your elemen
 </demo-tabs>
 
 Try it out in **Plunker**:
-* Try adding some other html elements inside the <template></template> block. For example, add `<h1>A heading!</h1>` or `<a href=”stuff.html”>A link!</a>`
+* Try adding some other html elements inside the <template></template> block. For example, delete `<h1>A heading!</h1>` or `<a href=”stuff.html”>A link!</a>`
 
 Shadow DOM is encapsulated inside the element.
 
